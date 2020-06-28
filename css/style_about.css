@@ -1,6 +1,6 @@
 body{
-  background-color: #f7e8e8;
-
+  background-color: #e1f2fb;
+  color: #000839
 }
 
 .heading{
@@ -10,12 +10,6 @@ body{
       margin: auto;
 }
 
-h1{
-  font-size:5rem;
-  font-weight: bold;
-  font-family: Rochester;
-  color: #010a43;
-}
 
 span{
   font-weight: bold;
@@ -40,12 +34,7 @@ padding: 0 8%;
   font-family: 'Montserrat', sans-serif;
 }
 
-#footer{
-  background-color: #ff487e;
-  margin: 0;
-  text-align: center;
-  padding:4% 15%;
-}
+
 
 .feature-box{
   text-align: center;
@@ -57,7 +46,7 @@ padding: 0 8%;
 
 .f-icon{
 
-  color: #ff487e;
+  color: #005082;
   margin-bottom:5rem;
 }
 .f-icon:hover{
@@ -65,17 +54,24 @@ padding: 0 8%;
 }
 
 .feature-box h3{
-  color: #ff487e;
+  color: #005082;
   padding-bottom:8%;
+}
+
+#footer{
+  background-color: #5246ac;
+  margin: 0;
+  text-align: center;
+  padding:4% 15%;
 }
 
 .foot-icon{
   margin: 0 4%;
 }
 .foot-icon:hover{
-  color:#dddddd;
+  color:#98d6ea;
 }
 
 #footer a{
-  color:#222831;
+  color:#dddddd;
 }
